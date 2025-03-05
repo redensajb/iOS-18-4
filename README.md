@@ -8,7 +8,7 @@ Apple continuously enhances iOS security, making jailbreaking more challenging. 
 
 <div align="center">
   
-![image](https://github.com/user-attachments/assets/e4d9e573-1a07-48b3-b96a-c8175a6d1ca9)
+![image](https://github.com/user-attachments/assets/200966f1-0ba0-4d77-8a13-ae12bfac9096)
 
 </div>
 
