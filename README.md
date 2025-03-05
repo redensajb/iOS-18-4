@@ -6,7 +6,11 @@
 
 Apple continuously enhances iOS security, making jailbreaking more challenging. However, developers have successfully created multiple iOS 18.4 jailbreak solutions. Here’s a detailed guide to the latest jailbreak tools and methods available.
 
-Apple continuously enhances iOS security, making jailbreaking more challenging. However, developers have successfully created multiple iOS 18.4 jailbreak solutions. Here’s a detailed guide to the latest jailbreak tools and methods available.
+<div align="center">
+  
+![image](https://github.com/user-attachments/assets/e4d9e573-1a07-48b3-b96a-c8175a6d1ca9)
+
+</div>
 
 ## 1. Redensa Jailbreak
 
