@@ -29,7 +29,7 @@ Redensa is a powerful terminal-based jailbreak solution compatible with iOS 18.4
 
 Irolyn is a popular repo extractor that supports iOS 18.4. It enables users to install jailbreak apps and tweaks by extracting repositories, offering a wide range of customization options.
 
-Get Irolyn - <a href="https://irolyn.com/"><u>Click Here</u></a>
+<a href="https://github.com/redensajb/Irolyn-Repo-Extractor"><u>More about Irolyn</u></a>
 
 🔹 <b>Features of Irolyn Repo Extractor</b>
 
