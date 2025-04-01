@@ -14,7 +14,7 @@ Apple continuously enhances iOS security, making jailbreaking more challenging. 
 
 Redensa is a powerful terminal-based jailbreak solution compatible with iOS 18.4. It allows users to install jailbreak apps and tweaks via the iTerminal app, making customization easier than ever.
 
-<a href="https://github.com/redensajb/redensa_jailbreak"><u>More about Redensa></u></a>
+<a href="https://github.com/redensajb/redensa_jailbreak"><u>More about Redensa</u></a>
 
 🔹 <b>Features of Redensa</b>
 
